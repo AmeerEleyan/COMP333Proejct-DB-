@@ -3,7 +3,8 @@
 <h2> E-commerce system(Sbitnay) </h2>
 <h2> Contributors:</h2>
   - <a href="https://github.com/Mohammad-M-AbuBader">Mohammad AbuBader</a>
-<h3>Inroduction</h3>
+
+## Inroduction
 <p>E-commerce system for electrical household appliances for merchandise management, financial reports, and managing branches and employees</p>
 
 ## Installation:
